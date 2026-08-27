@@ -15,6 +15,15 @@ The network learns to approximate the output of the original ray tracer from sev
 </p>
 
 ---
+## Interactive Simulator
+
+Explore the learned neural renderer in real time by adjusting astrophysical parameters such as black hole mass, camera position, and accretion disk geometry.
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Interactive Black Hole Simulator" width="850">
+</p>
+
+---
 
 ## Features
 
