@@ -35,6 +35,14 @@ A deep learning project that generates realistic black hole images from physical
 - Framework: PyTorch
 - Optimizer: Adam
 - Loss: L1 Loss
+- 
+## Results
+
+The model learns to approximate the output of the original ray tracer from astrophysical parameters.
+
+<p align="center">
+  <img src="assets/comparison.png" alt="Ground Truth vs Prediction" width="800"/>
+</p>
 
 ## Disclaimer
 
